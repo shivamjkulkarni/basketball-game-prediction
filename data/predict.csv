@@ -1,0 +1,11 @@
+game,team_home,team_away,rd_home,rd_away,td_home,td_away,tzd_home,tzd_away,elo_home,elo_away
+1,rhode_island_rams,north_carolina_tar_heels,6,1,0,770,0,0,1898.26,1978.41
+2,nc_state_wolfpack,rhode_island_rams,7,1,1440,0,0,0,2170.38,1898.26
+3,nc_state_wolfpack,north_carolina_tar_heels,7,1,1440,770,0,0,2170.38,1978.41
+4,liberty_flames,bucknell_bison,7,10,255,250,0,0,1944.02,1833.62
+5,drexel_dragons,delaware_blue_hens,11,9,0,680,0,0,1918.46,1936.87
+6,massachusetts_minutewomen,princeton_tigers,9,7,75,34,0,0,2005.46,1982.76
+7,buffalo_bulls,stony_brooke_seawolves,8,8,60,3400,0,0,1991.22,1813.43
+8,fairfield_stags,towson_tigers,7,9,20,220,0,0,1924.21,1895.98
+9,uconn_huskies,campbell_fighting_camels,9,10,15,1966,0,0,2082.86,1808.75
+10,american_university_eagles,columbia_lions,7,8,350,145,0,0,1890.61,1848.18

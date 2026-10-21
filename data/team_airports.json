@@ -1,0 +1,3943 @@
+{
+  "alabama_crimson_tide": {
+    "iata": "BHM",
+    "latitude": 33.56166,
+    "longitude": -86.75254,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "alabama_state_lady_hornets": {
+    "iata": "MGM",
+    "latitude": 32.30064,
+    "longitude": -86.39397,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "arkansas_razorbacks": {
+    "iata": "XNA",
+    "latitude": 36.28194,
+    "longitude": -94.30694,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "belmont_bruins": {
+    "iata": "BNA",
+    "latitude": 36.1195,
+    "longitude": -86.68416,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "charleston_cougars": {
+    "iata": "CHS",
+    "latitude": 32.89851,
+    "longitude": -80.04037,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "charlotte_49ers": {
+    "iata": "CLT",
+    "latitude": 35.2207,
+    "longitude": -80.94413,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "davidson_wildcats": {
+    "iata": "CLT",
+    "latitude": 35.2207,
+    "longitude": -80.94413,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "elon_phoenix": {
+    "iata": "GSO",
+    "latitude": 36.10613,
+    "longitude": -79.93701,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "florida_gators": {
+    "iata": "GNV",
+    "latitude": 29.69006,
+    "longitude": -82.27178,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "florida_gulf_coast_eagles": {
+    "iata": "RSW",
+    "latitude": 26.53617,
+    "longitude": -81.75517,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "florida_state_seminoles": {
+    "iata": "TLH",
+    "latitude": 30.39653,
+    "longitude": -84.35033,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "freed_hardeman_lions": {
+    "iata": "MEM",
+    "latitude": 35.04218,
+    "longitude": -89.98157,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "furman_paladins": {
+    "iata": "GSP",
+    "latitude": 34.89567,
+    "longitude": -82.21886,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "gardner_webb_runnin_bulldogs": {
+    "iata": "CLT",
+    "latitude": 35.2207,
+    "longitude": -80.94413,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "georgia_lady_bulldogs": {
+    "iata": "ATL",
+    "latitude": 33.64099,
+    "longitude": -84.42265,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "georgia_southern_eagles": {
+    "iata": "SAV",
+    "latitude": 32.12758,
+    "longitude": -81.20214,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "georgia_tech_yellow_jackets": {
+    "iata": "ATL",
+    "latitude": 33.64099,
+    "longitude": -84.42265,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "high_point_panthers": {
+    "iata": "GSO",
+    "latitude": 36.10613,
+    "longitude": -79.93701,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "houston_christian_huskies": {
+    "iata": "IAH",
+    "latitude": 29.98687,
+    "longitude": -95.34212,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "houston_cougars": {
+    "iata": "HOU",
+    "latitude": 29.64542,
+    "longitude": -95.27889,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "jackson_state_lady_tigers": {
+    "iata": "JAN",
+    "latitude": 32.31117,
+    "longitude": -90.07589,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "jacksonville_dolphins": {
+    "iata": "JAX",
+    "latitude": 30.49187,
+    "longitude": -81.68569,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "jacksonville_state_gamecocks": {
+    "iata": "BHM",
+    "latitude": 33.56166,
+    "longitude": -86.75254,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "little_rock_trojans": {
+    "iata": "LIT",
+    "latitude": 34.72944,
+    "longitude": -92.22431,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "louisiana_ragin_cajuns": {
+    "iata": "LFT",
+    "latitude": 30.20528,
+    "longitude": -91.98761,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "louisiana_tech_lady_techsters": {
+    "iata": "MLU",
+    "latitude": 32.51086,
+    "longitude": -92.03769,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "lsu_tigers": {
+    "iata": "BTR",
+    "latitude": 30.53297,
+    "longitude": -91.14955,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "memphis_tigers": {
+    "iata": "MEM",
+    "latitude": 35.04218,
+    "longitude": -89.98157,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "mercer_bears": {
+    "iata": "ATL",
+    "latitude": 33.64099,
+    "longitude": -84.42265,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "miami_hurricanes": {
+    "iata": "MIA",
+    "latitude": 25.79343,
+    "longitude": -80.29005,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "middle_tennessee_blue_raiders": {
+    "iata": "BNA",
+    "latitude": 36.1195,
+    "longitude": -86.68416,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "ole_miss_rebels": {
+    "iata": "MEM",
+    "latitude": 35.04218,
+    "longitude": -89.98157,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "oral_roberts_golden_eagles": {
+    "iata": "TUL",
+    "latitude": 36.19839,
+    "longitude": -95.88811,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "rice_owls": {
+    "iata": "HOU",
+    "latitude": 29.64542,
+    "longitude": -95.27889,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "se_louisiana_lady_lions": {
+    "iata": "MSY",
+    "latitude": 29.99339,
+    "longitude": -90.25803,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "south_carolina_gamecocks": {
+    "iata": "CAE",
+    "latitude": 33.93883,
+    "longitude": -81.11953,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "south_carolina_upstate_spartans": {
+    "iata": "GSP",
+    "latitude": 34.89567,
+    "longitude": -82.21886,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "south_florida_bulls": {
+    "iata": "TPA",
+    "latitude": 27.97547,
+    "longitude": -82.53325,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "southern_miss_lady_eagles": {
+    "iata": "PIB",
+    "latitude": 31.46714,
+    "longitude": -89.33706,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "stephen_f_austin_ladyjacks": {
+    "iata": "OCH",
+    "latitude": 31.57788,
+    "longitude": -94.70668,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "stetson_hatters": {
+    "iata": "DAB",
+    "latitude": 29.17992,
+    "longitude": -81.05806,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "tennessee_lady_volunteers": {
+    "iata": "TYS",
+    "latitude": 35.80673,
+    "longitude": -83.99115,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "tennessee_tech_golden_eagles": {
+    "iata": "BNA",
+    "latitude": 36.1195,
+    "longitude": -86.68416,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "troy_trojans": {
+    "iata": "MGM",
+    "latitude": 32.30064,
+    "longitude": -86.39397,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "tulane_green_wave": {
+    "iata": "MSY",
+    "latitude": 29.99339,
+    "longitude": -90.25803,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "tulsa_golden_hurricane": {
+    "iata": "TUL",
+    "latitude": 36.19839,
+    "longitude": -95.88811,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "ucf_knights": {
+    "iata": "MCO",
+    "latitude": 28.42939,
+    "longitude": -81.30899,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "wofford_terriers": {
+    "iata": "GSP",
+    "latitude": 34.89567,
+    "longitude": -82.21886,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "akron_zips": {
+    "iata": "CAK",
+    "latitude": 40.91617,
+    "longitude": -81.44234,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "app_state_mountaineers": {
+    "iata": "HKY",
+    "latitude": 35.74115,
+    "longitude": -81.38955,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "austin_peay_governors": {
+    "iata": "CKV",
+    "latitude": 36.62,
+    "longitude": -87.42,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "ball_state_cardinals": {
+    "iata": "MIE",
+    "latitude": 40.24026,
+    "longitude": -85.39122,
+    "timezone": "America/Indiana/Indianapolis",
+    "gmt_offset": -5.0
+  },
+  "cleveland_state_vikings": {
+    "iata": "CLE",
+    "latitude": 41.41169,
+    "longitude": -81.84979,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "coker_cobras": {
+    "iata": "FLO",
+    "latitude": 34.18536,
+    "longitude": -79.72389,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "dayton_flyers": {
+    "iata": "DAY",
+    "latitude": 39.90237,
+    "longitude": -84.21937,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "depaul_blue_demons": {
+    "iata": "ORD",
+    "latitude": 41.9786,
+    "longitude": -87.90484,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "drake_bulldogs": {
+    "iata": "DSM",
+    "latitude": 41.53397,
+    "longitude": -93.66308,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "eastern_illinois_panthers": {
+    "iata": "DEC",
+    "latitude": 39.83456,
+    "longitude": -88.86569,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "green_bay_phoenix": {
+    "iata": "GRB",
+    "latitude": 44.48507,
+    "longitude": -88.12959,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "illinois_state_redbirds": {
+    "iata": "BMI",
+    "latitude": 40.48299,
+    "longitude": -88.91395,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "indiana_hoosiers": {
+    "iata": "IND",
+    "latitude": 39.71733,
+    "longitude": -86.29438,
+    "timezone": "America/Indiana/Indianapolis",
+    "gmt_offset": -5.0
+  },
+  "iowa_hawkeyes": {
+    "iata": "CID",
+    "latitude": 41.88445,
+    "longitude": -91.71073,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "iowa_state_cyclones": {
+    "iata": "DSM",
+    "latitude": 41.53397,
+    "longitude": -93.66308,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "iu_indianapolis_jaguars": {
+    "iata": "IND",
+    "latitude": 39.71733,
+    "longitude": -86.29438,
+    "timezone": "America/Indiana/Indianapolis",
+    "gmt_offset": -5.0
+  },
+  "kansas_city_roos": {
+    "iata": "MCI",
+    "latitude": 39.29761,
+    "longitude": -94.7139,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "kansas_jayhawks": {
+    "iata": "MCI",
+    "latitude": 39.29761,
+    "longitude": -94.7139,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "kent_state_golden_flashes": {
+    "iata": "CAK",
+    "latitude": 40.91617,
+    "longitude": -81.44234,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "kentucky_wildcats": {
+    "iata": "LEX",
+    "latitude": 38.03702,
+    "longitude": -84.60522,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "louisville_cardinals": {
+    "iata": "SDF",
+    "latitude": 38.17439,
+    "longitude": -85.736,
+    "timezone": "America/Kentucky/Louisville",
+    "gmt_offset": -5.0
+  },
+  "loyola_chicago_ramblers": {
+    "iata": "MDW",
+    "latitude": 41.78597,
+    "longitude": -87.75242,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "marquette_golden_eagles": {
+    "iata": "MKE",
+    "latitude": 42.94722,
+    "longitude": -87.89658,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "marshall_thundering_herd": {
+    "iata": "HTS",
+    "latitude": 38.36667,
+    "longitude": -82.55803,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "michigan_state_spartans": {
+    "iata": "LAN",
+    "latitude": 42.7787,
+    "longitude": -84.58736,
+    "timezone": "America/Detroit",
+    "gmt_offset": -5.0
+  },
+  "michigan_wolverines": {
+    "iata": "DTW",
+    "latitude": 42.21244,
+    "longitude": -83.35339,
+    "timezone": "America/Detroit",
+    "gmt_offset": -5.0
+  },
+  "missouri_state_lady_bears": {
+    "iata": "SGF",
+    "latitude": 37.24422,
+    "longitude": -93.38686,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "missouri_tigers": {
+    "iata": "COU",
+    "latitude": 38.81809,
+    "longitude": -92.21963,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "murray_state_racers": {
+    "iata": "PAH",
+    "latitude": 37.06029,
+    "longitude": -88.77296,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "northern_iowa_panthers": {
+    "iata": "ALO",
+    "latitude": 42.55708,
+    "longitude": -92.40035,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "northern_kentucky_norse": {
+    "iata": "CVG",
+    "latitude": 39.04884,
+    "longitude": -84.66782,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "northwestern_wildcats": {
+    "iata": "ORD",
+    "latitude": 41.9786,
+    "longitude": -87.90484,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "notre_dame_fighting_irish": {
+    "iata": "SBN",
+    "latitude": 41.70866,
+    "longitude": -86.31725,
+    "timezone": "America/Indiana/Indianapolis",
+    "gmt_offset": -5.0
+  },
+  "ohio_bobcats": {
+    "iata": "CMH",
+    "latitude": 39.99795,
+    "longitude": -82.88352,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "ohio_state_buckeyes": {
+    "iata": "CMH",
+    "latitude": 39.99795,
+    "longitude": -82.88352,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "purdue_boilermakers": {
+    "iata": "LAF",
+    "latitude": 40.41226,
+    "longitude": -86.93668,
+    "timezone": "America/Indiana/Indianapolis",
+    "gmt_offset": -5.0
+  },
+  "southern_illinois_salukis": {
+    "iata": "MDH",
+    "latitude": 37.77718,
+    "longitude": -89.25181,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "toledo_rockets": {
+    "iata": "TOL",
+    "latitude": 41.59247,
+    "longitude": -83.80606,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "unc_pembroke_braves": {
+    "iata": "FAY",
+    "latitude": 34.99072,
+    "longitude": -78.8803,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "virginia_tech_hokies": {
+    "iata": "ROA",
+    "latitude": 37.32547,
+    "longitude": -79.97542,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "western_kentucky_lady_toppers": {
+    "iata": "BWG",
+    "latitude": 36.96452,
+    "longitude": -86.41968,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "western_michigan_broncos": {
+    "iata": "AZO",
+    "latitude": 42.23488,
+    "longitude": -85.55206,
+    "timezone": "America/Detroit",
+    "gmt_offset": -5.0
+  },
+  "abilene_christian_wildcats": {
+    "iata": "ABI",
+    "latitude": 32.41124,
+    "longitude": -99.68203,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "air_force_falcons": {
+    "iata": "COS",
+    "latitude": 38.8058,
+    "longitude": -104.70078,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "arizona_wildcats": {
+    "iata": "TUS",
+    "latitude": 32.11608,
+    "longitude": -110.94103,
+    "timezone": "America/Phoenix",
+    "gmt_offset": -7.0
+  },
+  "baylor_bears": {
+    "iata": "ACT",
+    "latitude": 31.60879,
+    "longitude": -97.22538,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "byu_cougars": {
+    "iata": "SLC",
+    "latitude": 40.78839,
+    "longitude": -111.97777,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "california_baptist_lancers": {
+    "iata": "ONT",
+    "latitude": 34.05584,
+    "longitude": -117.602,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "colorado_buffaloes": {
+    "iata": "DEN",
+    "latitude": 39.86166,
+    "longitude": -104.67318,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "colorado_state_rams": {
+    "iata": "DEN",
+    "latitude": 39.86166,
+    "longitude": -104.67318,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "creighton_bluejays": {
+    "iata": "OMA",
+    "latitude": 41.3011,
+    "longitude": -95.89848,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "gonzaga_bulldogs": {
+    "iata": "GEG",
+    "latitude": 47.62,
+    "longitude": -117.5,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "grand_canyon_lopes": {
+    "iata": "PHX",
+    "latitude": 33.43551,
+    "longitude": -111.99807,
+    "timezone": "America/Phoenix",
+    "gmt_offset": -7.0
+  },
+  "hawaii_rainbow_wahine": {
+    "iata": "HNL",
+    "latitude": 21.32452,
+    "longitude": -157.92507,
+    "timezone": "Pacific/Honolulu",
+    "gmt_offset": -10.0
+  },
+  "idaho_state_bengals": {
+    "iata": "PIH",
+    "latitude": 42.90981,
+    "longitude": -112.59592,
+    "timezone": "America/Boise",
+    "gmt_offset": -7.0
+  },
+  "kansas_state_wildcats": {
+    "iata": "MHK",
+    "latitude": 39.14097,
+    "longitude": -96.67083,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "long_beach_state_beach": {
+    "iata": "LGB",
+    "latitude": 33.81752,
+    "longitude": -118.15229,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "montana_lady_griz": {
+    "iata": "MSO",
+    "latitude": 46.91631,
+    "longitude": -114.09056,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "montana_state_bobcats": {
+    "iata": "BZN",
+    "latitude": 45.77746,
+    "longitude": -111.15298,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "nebraska_cornhuskers": {
+    "iata": "LNK",
+    "latitude": 40.85097,
+    "longitude": -96.75925,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "nevada_wolf_pack": {
+    "iata": "RNO",
+    "latitude": 39.49858,
+    "longitude": -119.76806,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "new_mexico_lobos": {
+    "iata": "ABQ",
+    "latitude": 35.04199,
+    "longitude": -106.60697,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "north_texas_mean_green": {
+    "iata": "DFW",
+    "latitude": 32.89683,
+    "longitude": -97.038,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "northern_arizona_lumberjacks": {
+    "iata": "FLG",
+    "latitude": 35.13845,
+    "longitude": -111.67122,
+    "timezone": "America/Phoenix",
+    "gmt_offset": -7.0
+  },
+  "oklahoma_sooners": {
+    "iata": "OKC",
+    "latitude": 35.39309,
+    "longitude": -97.60073,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "oregon_ducks": {
+    "iata": "EUG",
+    "latitude": 44.12458,
+    "longitude": -123.21197,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "portland_pilots": {
+    "iata": "PDX",
+    "latitude": 45.58919,
+    "longitude": -122.59353,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "san_diego_toreros": {
+    "iata": "SAN",
+    "latitude": 32.73235,
+    "longitude": -117.19744,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "san_francisco_dons": {
+    "iata": "SFO",
+    "latitude": 37.61897,
+    "longitude": -122.37489,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "santa_clara_broncos": {
+    "iata": "SJC",
+    "latitude": 37.36189,
+    "longitude": -121.92885,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "south_dakota_coyotes": {
+    "iata": "FSD",
+    "latitude": 43.58,
+    "longitude": -96.73,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "south_dakota_state_jackrabbits": {
+    "iata": "FSD",
+    "latitude": 43.58,
+    "longitude": -96.73,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "southern_utah_thunderbirds": {
+    "iata": "CDC",
+    "latitude": 37.70097,
+    "longitude": -113.09885,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "stanford_cardinal": {
+    "iata": "SFO",
+    "latitude": 37.61897,
+    "longitude": -122.37489,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "tarleton_state_texans": {
+    "iata": "DFW",
+    "latitude": 32.89683,
+    "longitude": -97.038,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "texas_am_corpus_christi_islanders": {
+    "iata": "CRP",
+    "latitude": 27.77036,
+    "longitude": -97.50122,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "texas_am_international_dustdevils": {
+    "iata": "LRD",
+    "latitude": 27.54375,
+    "longitude": -99.46156,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "texas_longhorns": {
+    "iata": "AUS",
+    "latitude": 30.19453,
+    "longitude": -97.66987,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "texas_state_bobcats": {
+    "iata": "AUS",
+    "latitude": 30.19453,
+    "longitude": -97.66987,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "uc_davis_aggies": {
+    "iata": "SMF",
+    "latitude": 38.69542,
+    "longitude": -121.59078,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "uc_irvine_anteaters": {
+    "iata": "SNA",
+    "latitude": 33.67567,
+    "longitude": -117.86822,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "uc_riverside_highlanders": {
+    "iata": "ONT",
+    "latitude": 34.05584,
+    "longitude": -117.602,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "uc_santa_barbara_gauchos": {
+    "iata": "SBA",
+    "latitude": 34.42611,
+    "longitude": -119.84125,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "ucla_bruins": {
+    "iata": "LAX",
+    "latitude": 33.94254,
+    "longitude": -118.40807,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "unlv_lady_rebels": {
+    "iata": "LAS",
+    "latitude": 36.08006,
+    "longitude": -115.15225,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "ut_arlington_mavericks": {
+    "iata": "DFW",
+    "latitude": 32.89683,
+    "longitude": -97.038,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "utah_utes": {
+    "iata": "SLC",
+    "latitude": 40.78839,
+    "longitude": -111.97777,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "utah_valley_wolverines": {
+    "iata": "SLC",
+    "latitude": 40.78839,
+    "longitude": -111.97777,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "washington_state_cougars": {
+    "iata": "PUW",
+    "latitude": 46.74378,
+    "longitude": -117.10934,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "wyoming_cowgirls": {
+    "iata": "LAR",
+    "latitude": 41.31206,
+    "longitude": -105.675,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "rhode_island_rams": {
+    "iata": "PVD",
+    "latitude": 41.73258,
+    "longitude": -71.42038,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "north_carolina_tar_heels": {
+    "iata": "RDU",
+    "latitude": 35.87946,
+    "longitude": -78.7871,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "nc_state_wolfpack": {
+    "iata": "RDU",
+    "latitude": 35.87946,
+    "longitude": -78.7871,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "liberty_flames": {
+    "iata": "LYH",
+    "latitude": 37.32606,
+    "longitude": -79.2045,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "bucknell_bison": {
+    "iata": "MDT",
+    "latitude": 40.19342,
+    "longitude": -76.7633,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "drexel_dragons": {
+    "iata": "PHL",
+    "latitude": 39.87835,
+    "longitude": -75.24018,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "delaware_blue_hens": {
+    "iata": "ILG",
+    "latitude": 39.67845,
+    "longitude": -75.60632,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "massachusetts_minutewomen": {
+    "iata": "ORH",
+    "latitude": 42.26734,
+    "longitude": -71.87571,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "princeton_tigers": {
+    "iata": "TTN",
+    "latitude": 40.27669,
+    "longitude": -74.81347,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "buffalo_bulls": {
+    "iata": "BUF",
+    "latitude": 42.94034,
+    "longitude": -78.7317,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "stony_brook_seawolves": {
+    "iata": "ISP",
+    "latitude": 40.79525,
+    "longitude": -73.10022,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "fairfield_stags": {
+    "iata": "BDR",
+    "latitude": 41.16347,
+    "longitude": -73.12617,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "towson_tigers": {
+    "iata": "MTN",
+    "latitude": 39.32567,
+    "longitude": -76.41377,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "uconn_huskies": {
+    "iata": "BDL",
+    "latitude": 41.93798,
+    "longitude": -72.68782,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "campbell_fighting_camels": {
+    "iata": "RZZ",
+    "latitude": 36.44299,
+    "longitude": -77.70901,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "american_university_eagles": {
+    "iata": "DCA",
+    "latitude": 38.85208,
+    "longitude": -77.03772,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "columbia_lions": {
+    "iata": "JFK",
+    "latitude": 40.63983,
+    "longitude": -73.77874,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "auburn_tigers": {
+    "iata": "AUO",
+    "latitude": 32.62,
+    "longitude": -85.43,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "texas_am_aggies": {
+    "iata": "CLL",
+    "latitude": 30.58858,
+    "longitude": -96.36383,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "mississippi_state_bulldogs": {
+    "iata": "STF",
+    "latitude": -9.50731,
+    "longitude": 143.54706,
+    "timezone": "Australia/Brisbane",
+    "gmt_offset": 10.0
+  },
+  "vanderbilt_commodores": {
+    "iata": "BNA",
+    "latitude": 36.1195,
+    "longitude": -86.68416,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "maryland_terrapins": {
+    "iata": "ADW",
+    "latitude": 38.80366,
+    "longitude": -76.87215,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "rutgers_scarlet_knights": {
+    "iata": "EWR",
+    "latitude": 40.69125,
+    "longitude": -74.17883,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "wisconsin_badgers": {
+    "iata": "MSN",
+    "latitude": 43.13986,
+    "longitude": -89.33751,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "penn_state_lady_lions": {
+    "iata": "UNV",
+    "latitude": 40.8492,
+    "longitude": -77.8487,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "minnesota_golden_gophers": {
+    "iata": "MSP",
+    "latitude": 44.88217,
+    "longitude": -93.20835,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "illinois_fighting_illini": {
+    "iata": "CMI",
+    "latitude": 40.03925,
+    "longitude": -88.27806,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "san_diego_state_aztecs": {
+    "iata": "SAN",
+    "latitude": 32.73235,
+    "longitude": -117.19744,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "boise_state_broncos": {
+    "iata": "BOI",
+    "latitude": 43.56683,
+    "longitude": -116.22321,
+    "timezone": "America/Boise",
+    "gmt_offset": -7.0
+  },
+  "fresno_state_bulldogs": {
+    "iata": "FAT",
+    "latitude": 36.77606,
+    "longitude": -119.71903,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "utah_state_aggies": {
+    "iata": "OGD",
+    "latitude": 41.19592,
+    "longitude": -112.01217,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "san_jose_state_spartans": {
+    "iata": "SJC",
+    "latitude": 37.36189,
+    "longitude": -121.92885,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "southern_jaguars": {
+    "iata": "BTR",
+    "latitude": 30.53297,
+    "longitude": -91.14955,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "pittsburgh_panthers": {
+    "iata": "PIT",
+    "latitude": 40.49147,
+    "longitude": -80.23287,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "texas_southern_tigers": {
+    "iata": "HOU",
+    "latitude": 29.64542,
+    "longitude": -95.27889,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "tcu_horned_frogs": {
+    "iata": "DFW",
+    "latitude": 32.89683,
+    "longitude": -97.038,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "utsa_roadrunners": {
+    "iata": "SAT",
+    "latitude": 29.53384,
+    "longitude": -98.47002,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "james_madison_dukes": {
+    "iata": "SHD",
+    "latitude": 38.26292,
+    "longitude": -78.90202,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "william_mary_tribe": {
+    "iata": "PHF",
+    "latitude": 37.13181,
+    "longitude": -76.49273,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "unc_wilmington_seahawks": {
+    "iata": "ILM",
+    "latitude": 34.27061,
+    "longitude": -77.90257,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "northeastern_huskies": {
+    "iata": "BOS",
+    "latitude": 42.36514,
+    "longitude": -71.01777,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "hofstra_pride": {
+    "iata": "HEM",
+    "latitude": 60.25456,
+    "longitude": 25.04283,
+    "timezone": "Europe/Helsinki",
+    "gmt_offset": 2.0
+  },
+  "central_michigan_chippewas": {
+    "iata": "MTC",
+    "latitude": 42.60833,
+    "longitude": -82.8355,
+    "timezone": "America/Detroit",
+    "gmt_offset": -5.0
+  },
+  "miami_oh_redhawks": {
+    "iata": "MKK",
+    "latitude": 21.15152,
+    "longitude": -157.09748,
+    "timezone": "Pacific/Honolulu",
+    "gmt_offset": -10.0
+  },
+  "bowling_green_falcons": {
+    "iata": "BWG",
+    "latitude": 36.96452,
+    "longitude": -86.41968,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "northern_illinois_huskies": {
+    "iata": "DKB",
+    "latitude": 41.9333,
+    "longitude": -88.7061,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "eastern_michigan_eagles": {
+    "iata": "YIP",
+    "latitude": 42.23782,
+    "longitude": -83.53021,
+    "timezone": "America/Detroit",
+    "gmt_offset": -5.0
+  },
+  "coastal_carolina_chanticleers": {
+    "iata": "MYR",
+    "latitude": 33.67975,
+    "longitude": -78.92833,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "arkansas_state_red_wolves": {
+    "iata": "JBR",
+    "latitude": 35.83171,
+    "longitude": -90.64642,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "ul_monroe_warhawks": {
+    "iata": "MLU",
+    "latitude": 32.51086,
+    "longitude": -92.03769,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "georgia_state_panthers": {
+    "iata": "ATL",
+    "latitude": 33.64099,
+    "longitude": -84.42265,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "south_alabama_jaguars": {
+    "iata": "MOB",
+    "latitude": 30.69123,
+    "longitude": -88.24281,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "pacific_tigers": {
+    "iata": "SCK",
+    "latitude": 37.89381,
+    "longitude": -121.23911,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "loyola_marymount_lions": {
+    "iata": "LAX",
+    "latitude": 33.94254,
+    "longitude": -118.40807,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "pepperdine_waves": {
+    "iata": "LGB",
+    "latitude": 33.81752,
+    "longitude": -118.15229,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "saint_marys_gaels": {
+    "iata": "SNA",
+    "latitude": 33.67567,
+    "longitude": -117.86822,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "texas_tech_lady_raiders": {
+    "iata": "LBB",
+    "latitude": 33.66364,
+    "longitude": -101.82278,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "oklahoma_state_cowgirls": {
+    "iata": "OKC",
+    "latitude": 35.39309,
+    "longitude": -97.60073,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "west_virginia_mountaineers": {
+    "iata": "CRW",
+    "latitude": 38.37315,
+    "longitude": -81.59319,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "indiana_state_sycamores": {
+    "iata": "HUF",
+    "latitude": 39.45146,
+    "longitude": -87.30756,
+    "timezone": "America/Indiana/Indianapolis",
+    "gmt_offset": -5.0
+  },
+  "valparaiso_beacons": {
+    "iata": "VYS",
+    "latitude": 41.35249,
+    "longitude": -89.15041,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "bradley_braves": {
+    "iata": "PIA",
+    "latitude": 40.6642,
+    "longitude": -89.69326,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "evansville_purple_aces": {
+    "iata": "EVV",
+    "latitude": 38.037,
+    "longitude": -87.53236,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "duke_blue_devils": {
+    "iata": "RDU",
+    "latitude": 35.87946,
+    "longitude": -78.7871,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "winthrop_eagles": {
+    "iata": "RDU",
+    "latitude": 35.87946,
+    "longitude": -78.7871,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "boston_college_eagles": {
+    "iata": "BOS",
+    "latitude": 42.36514,
+    "longitude": -71.01777,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "harvard_crimson": {
+    "iata": "BOS",
+    "latitude": 42.36514,
+    "longitude": -71.01777,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "north_florida_ospreys": {
+    "iata": "JAX",
+    "latitude": 30.49187,
+    "longitude": -81.68569,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "north_carolina_at_aggies": {
+    "iata": "GSO",
+    "latitude": 36.10613,
+    "longitude": -79.93701,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "virginia_cavaliers": {
+    "iata": "CHO",
+    "latitude": 38.13864,
+    "longitude": -78.45286,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "clemson_tigers": {
+    "iata": "GSP",
+    "latitude": 34.89567,
+    "longitude": -82.21886,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "radford_highlanders": {
+    "iata": "ROA",
+    "latitude": 37.32547,
+    "longitude": -79.97542,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "syracuse_orange": {
+    "iata": "SYR",
+    "latitude": 43.11119,
+    "longitude": -76.10631,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "monmouth_hawks": {
+    "iata": "MMU",
+    "latitude": 40.79935,
+    "longitude": -74.41487,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "western_illinois_leathernecks": {
+    "iata": "MLI",
+    "latitude": 41.44853,
+    "longitude": -90.50754,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "kennesaw_state_owls": {
+    "iata": "ATL",
+    "latitude": 33.64099,
+    "longitude": -84.42265,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "george_washington_revolutionaries": {
+    "iata": "DCA",
+    "latitude": 38.85208,
+    "longitude": -77.03772,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "bethune_cookman_wildcats": {
+    "iata": "DAB",
+    "latitude": 29.17992,
+    "longitude": -81.05806,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "lafayette_leopards": {
+    "iata": "ABE",
+    "latitude": 40.65253,
+    "longitude": -75.43554,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "wake_forest_demon_deacons": {
+    "iata": "INT",
+    "latitude": 36.13635,
+    "longitude": -80.22817,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "cornell_big_red": {
+    "iata": "ITH",
+    "latitude": 42.48,
+    "longitude": -76.47,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "holy_cross_crusaders": {
+    "iata": "ORH",
+    "latitude": 42.26734,
+    "longitude": -71.87571,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "usc_trojans": {
+    "iata": "LAX",
+    "latitude": 33.94254,
+    "longitude": -118.40807,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "milwaukee_panthers": {
+    "iata": "MKE",
+    "latitude": 42.94722,
+    "longitude": -87.89658,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "george_mason_patriots": {
+    "iata": "IAD",
+    "latitude": 38.94453,
+    "longitude": -77.45581,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "unc_greensboro_spartans": {
+    "iata": "GSO",
+    "latitude": 36.10613,
+    "longitude": -79.93701,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "bellarmine_knights": {
+    "iata": "SDF",
+    "latitude": 38.17439,
+    "longitude": -85.736,
+    "timezone": "America/Kentucky/Louisville",
+    "gmt_offset": -5.0
+  },
+  "boston_university_terriers": {
+    "iata": "BOS",
+    "latitude": 42.36514,
+    "longitude": -71.01777,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "east_tennessee_state_bucs": {
+    "iata": "TRI",
+    "latitude": 36.47522,
+    "longitude": -82.40742,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "ut_martin_skyhawks": {
+    "iata": "MKL",
+    "latitude": 35.60239,
+    "longitude": -88.92145,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "long_island_university_sharks": {
+    "iata": "ISP",
+    "latitude": 40.79525,
+    "longitude": -73.10022,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "morgan_state_lady_bears": {
+    "iata": "BWI",
+    "latitude": 39.17539,
+    "longitude": -76.66802,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "coppin_state_eagles": {
+    "iata": "BWI",
+    "latitude": 39.17539,
+    "longitude": -76.66802,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "florida_atlantic_owls": {
+    "iata": "PBI",
+    "latitude": 26.68316,
+    "longitude": -80.09559,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "fordham_rams": {
+    "iata": "JFK",
+    "latitude": 40.63983,
+    "longitude": -73.77874,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "providence_friars": {
+    "iata": "PVD",
+    "latitude": 41.73258,
+    "longitude": -71.42038,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "washington_huskies": {
+    "iata": "SEA",
+    "latitude": 47.449,
+    "longitude": -122.30931,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "duquesne_dukes": {
+    "iata": "PIT",
+    "latitude": 40.49147,
+    "longitude": -80.23287,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "bryant_bulldogs": {
+    "iata": "PVD",
+    "latitude": 41.73258,
+    "longitude": -71.42038,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "east_carolina_pirates": {
+    "iata": "PGV",
+    "latitude": 35.63,
+    "longitude": -77.4,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "grambling_lady_tigers": {
+    "iata": "MLU",
+    "latitude": 32.51086,
+    "longitude": -92.03769,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "cal_poly_mustangs": {
+    "iata": "SBP",
+    "latitude": 35.23683,
+    "longitude": -120.64186,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "cal_state_fullerton_titans": {
+    "iata": "SNA",
+    "latitude": 33.67567,
+    "longitude": -117.86822,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "richmond_spiders": {
+    "iata": "RIC",
+    "latitude": 37.50517,
+    "longitude": -77.31967,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "oregon_state_beavers": {
+    "iata": "PDX",
+    "latitude": 45.58919,
+    "longitude": -122.59353,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "umbc_retrievers": {
+    "iata": "BWI",
+    "latitude": 39.17539,
+    "longitude": -76.66802,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "mount_st_marys_mountaineers": {
+    "iata": "CBE",
+    "latitude": 39.61509,
+    "longitude": -78.76168,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "ualbany_great_danes": {
+    "iata": "ALB",
+    "latitude": 42.74827,
+    "longitude": -73.80169,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "colgate_raiders": {
+    "iata": "SYR",
+    "latitude": 43.11119,
+    "longitude": -76.10631,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "presbyterian_blue_hose": {
+    "iata": "CLT",
+    "latitude": 35.2207,
+    "longitude": -80.94413,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "vcu_rams": {
+    "iata": "RIC",
+    "latitude": 37.50517,
+    "longitude": -77.31967,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "pennsylvania_quakers": {
+    "iata": "PHL",
+    "latitude": 39.87835,
+    "longitude": -75.24018,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "charleston_southern_buccaneers": {
+    "iata": "CHS",
+    "latitude": 32.89851,
+    "longitude": -80.04037,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "central_connecticut_blue_devils": {
+    "iata": "HFD",
+    "latitude": 41.7368,
+    "longitude": -72.6498,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "robert_morris_colonials": {
+    "iata": "PIT",
+    "latitude": 40.49147,
+    "longitude": -80.23287,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "unc_asheville_bulldogs": {
+    "iata": "AVL",
+    "latitude": 35.43619,
+    "longitude": -82.54181,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "purdue_fort_wayne_mastodons": {
+    "iata": "FWA",
+    "latitude": 40.97847,
+    "longitude": -85.19514,
+    "timezone": "America/Indiana/Indianapolis",
+    "gmt_offset": -5.0
+  },
+  "south_carolina_state_lady_bulldogs": {
+    "iata": "ORC",
+    "latitude": 4.79,
+    "longitude": -71.349,
+    "timezone": "America/Bogota",
+    "gmt_offset": -5.0
+  },
+  "eastern_kentucky_colonels": {
+    "iata": "RICH",
+    "latitude": 37.6292,
+    "longitude": -84.3364,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "sacred_heart_pioneers": {
+    "iata": "BDR",
+    "latitude": 41.16347,
+    "longitude": -73.12617,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "florida_international_panthers": {
+    "iata": "MIA",
+    "latitude": 25.79343,
+    "longitude": -80.29005,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "loyola_maryland_greyhounds": {
+    "iata": "BWI",
+    "latitude": 39.17539,
+    "longitude": -76.66802,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "norfolk_state_spartans": {
+    "iata": "ORF",
+    "latitude": 36.89461,
+    "longitude": -76.20122,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "st_bonaventure_bonnies": {
+    "iata": "BUF",
+    "latitude": 42.94034,
+    "longitude": -78.7317,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "saint_josephs_hawks": {
+    "iata": "PHL",
+    "latitude": 39.87835,
+    "longitude": -75.24018,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "saint_louis_billikens": {
+    "iata": "STL",
+    "latitude": 38.74337,
+    "longitude": -90.36564,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "central_arkansas_sugar_bears": {
+    "iata": "LIT",
+    "latitude": 34.72944,
+    "longitude": -92.22431,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "lipscomb_bisons": {
+    "iata": "BNA",
+    "latitude": 36.1195,
+    "longitude": -86.68416,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "blackburn_beavers": {
+    "iata": "SPI",
+    "latitude": 39.8441,
+    "longitude": -89.67789,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "north_alabama_lions": {
+    "iata": "MSL",
+    "latitude": 34.74532,
+    "longitude": -87.61023,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "warner_university_royals": {
+    "iata": "LAL",
+    "latitude": 27.98892,
+    "longitude": -82.01856,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "hendrix_college_warriors": {
+    "iata": "LIT",
+    "latitude": 34.72944,
+    "longitude": -92.22431,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "cincinnati_bearcats": {
+    "iata": "CVG",
+    "latitude": 39.04884,
+    "longitude": -84.66782,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "trinity_baptist_eagles": {
+    "iata": "JAX",
+    "latitude": 30.49187,
+    "longitude": -81.68569,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "shorter_hawks": {
+    "iata": "ATL",
+    "latitude": 33.64099,
+    "longitude": -84.42265,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "webber_international_warriors": {
+    "iata": "LAL",
+    "latitude": 27.98892,
+    "longitude": -82.01856,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "alcorn_state_lady_braves": {
+    "iata": "HEZ",
+    "latitude": 31.62,
+    "longitude": -91.3,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "tennessee_state_lady_tigers": {
+    "iata": "BNA",
+    "latitude": 36.1195,
+    "longitude": -86.68416,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "morehead_state_eagles": {
+    "iata": "MWA",
+    "latitude": 37.75,
+    "longitude": -89.02,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "life_university_running_eagles": {
+    "iata": "ATL",
+    "latitude": 33.64099,
+    "longitude": -84.42265,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "oakwood_ambassadors": {
+    "iata": "HSV",
+    "latitude": 34.63719,
+    "longitude": -86.77506,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "tennessee_wesleyan_bulldogs": {
+    "iata": "CHA",
+    "latitude": 35.03528,
+    "longitude": -85.20381,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "spalding_pelicans": {
+    "iata": "SDF",
+    "latitude": 38.17439,
+    "longitude": -85.736,
+    "timezone": "America/Kentucky/Louisville",
+    "gmt_offset": -5.0
+  },
+  "chattanooga_mocs": {
+    "iata": "CHA",
+    "latitude": 35.03528,
+    "longitude": -85.20381,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "ut_rio_grande_valley_vaqueros": {
+    "iata": "MFM",
+    "latitude": 22.14956,
+    "longitude": 113.59156,
+    "timezone": "Asia/Macau",
+    "gmt_offset": 8.0
+  },
+  "jarvis_christian_bulldogs": {
+    "iata": "TYR",
+    "latitude": 32.35414,
+    "longitude": -95.40239,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "campbellsville_harrodsburg_pioneers": {
+    "iata": "LEX",
+    "latitude": 38.03702,
+    "longitude": -84.60522,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "florida_am_rattlers": {
+    "iata": "TLH",
+    "latitude": 30.39653,
+    "longitude": -84.35033,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "maine_black_bears": {
+    "iata": "BGR",
+    "latitude": 44.80744,
+    "longitude": -68.82814,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "new_hampshire_wildcats": {
+    "iata": "MHT",
+    "latitude": 42.93256,
+    "longitude": -71.43567,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "delaware_state_hornets": {
+    "iata": "DOV",
+    "latitude": 39.12518,
+    "longitude": -75.47121,
+    "timezone": "America/Indiana/Indianapolis",
+    "gmt_offset": -5.0
+  },
+  "binghamton_bearcats": {
+    "iata": "BGM",
+    "latitude": 42.20841,
+    "longitude": -75.97909,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "siena_saints": {
+    "iata": "ALB",
+    "latitude": 42.74827,
+    "longitude": -73.80169,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "umass_lowell_river_hawks": {
+    "iata": "LWM",
+    "latitude": 42.71721,
+    "longitude": -71.12343,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "gettysburg_bullets": {
+    "iata": "MDT",
+    "latitude": 40.19342,
+    "longitude": -76.7633,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "wagner_seahawks": {
+    "iata": "NYC",
+    "latitude": 40.71427,
+    "longitude": -74.00597,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "njit_highlanders": {
+    "iata": "NYC",
+    "latitude": 40.71427,
+    "longitude": -74.00597,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "longwood_lancers": {
+    "iata": "LYH",
+    "latitude": 37.32606,
+    "longitude": -79.2045,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "canisius_golden_griffins": {
+    "iata": "BUF",
+    "latitude": 42.94034,
+    "longitude": -78.7317,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "dartmouth_big_green": {
+    "iata": "LEB",
+    "latitude": 43.62611,
+    "longitude": -72.30419,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "st_johns_red_storm": {
+    "iata": "JFK",
+    "latitude": 40.63983,
+    "longitude": -73.77874,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "merrimack_warriors": {
+    "iata": "BOS",
+    "latitude": 42.36514,
+    "longitude": -71.01777,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "yale_bulldogs": {
+    "iata": "HVN",
+    "latitude": 41.2639,
+    "longitude": -72.8871,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "iona_gaels": {
+    "iata": "HPN",
+    "latitude": 41.06704,
+    "longitude": -73.70707,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "fisher_college_eagles": {
+    "iata": "BOS",
+    "latitude": 42.36514,
+    "longitude": -71.01777,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "mansfield_mountaineers": {
+    "iata": "MDT",
+    "latitude": 40.19342,
+    "longitude": -76.7633,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "fairleigh_dickinson_knights": {
+    "iata": "NYC",
+    "latitude": 40.71427,
+    "longitude": -74.00597,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "army_black_knights": {
+    "iata": "SWF",
+    "latitude": 41.49874,
+    "longitude": -74.10045,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "saint_peters_peacocks": {
+    "iata": "NYC",
+    "latitude": 40.71427,
+    "longitude": -74.00597,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "st_francis_brooklyn_terriers": {
+    "iata": "NYC",
+    "latitude": 40.71427,
+    "longitude": -74.00597,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "rider_broncs": {
+    "iata": "TTN",
+    "latitude": 40.27669,
+    "longitude": -74.81347,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "lehigh_mountain_hawks": {
+    "iata": "ABE",
+    "latitude": 40.65253,
+    "longitude": -75.43554,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "pittsburgh_johnstown_mountain_cats": {
+    "iata": "JST",
+    "latitude": 40.31611,
+    "longitude": -78.83394,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "howard_bison": {
+    "iata": "DCA",
+    "latitude": 38.85208,
+    "longitude": -77.03772,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "vermont_catamounts": {
+    "iata": "BTV",
+    "latitude": 44.47186,
+    "longitude": -73.15328,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "hartford_hawks": {
+    "iata": "BDL",
+    "latitude": 41.93798,
+    "longitude": -72.68782,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "marist_red_foxes": {
+    "iata": "POU",
+    "latitude": 41.62658,
+    "longitude": -73.88419,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "navy_midshipmen": {
+    "iata": "ANP",
+    "latitude": 38.98,
+    "longitude": -76.5,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "brown_bears": {
+    "iata": "PVD",
+    "latitude": 41.73258,
+    "longitude": -71.42038,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "tennessee_southern_firehawks": {
+    "iata": "MSL",
+    "latitude": 34.74532,
+    "longitude": -87.61023,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "la_salle_explorers": {
+    "iata": "PHL",
+    "latitude": 39.87835,
+    "longitude": -75.24018,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "northern_colorado_bears": {
+    "iata": "GJT",
+    "latitude": 39.1222,
+    "longitude": -108.52911,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "arizona_state_sun_devils": {
+    "iata": "PHX",
+    "latitude": 33.43551,
+    "longitude": -111.99807,
+    "timezone": "America/Phoenix",
+    "gmt_offset": -7.0
+  },
+  "sacramento_state_hornets": {
+    "iata": "SMF",
+    "latitude": 38.69542,
+    "longitude": -121.59078,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "california_golden_bears": {
+    "iata": "OAK",
+    "latitude": 37.73071,
+    "longitude": -122.21955,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "north_dakota_fighting_hawks": {
+    "iata": "GFK",
+    "latitude": 47.94925,
+    "longitude": -97.17611,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "weber_state_wildcats": {
+    "iata": "OGD",
+    "latitude": 41.19592,
+    "longitude": -112.01217,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "carroll_mt_fighting_saints": {
+    "iata": "HLN",
+    "latitude": 46.60681,
+    "longitude": -111.98275,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "warner_pacific_knights": {
+    "iata": "PDX",
+    "latitude": 45.58919,
+    "longitude": -122.59353,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "portland_state_vikings": {
+    "iata": "PDX",
+    "latitude": 45.58919,
+    "longitude": -122.59353,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "eastern_washington_eagles": {
+    "iata": "GEG",
+    "latitude": 47.62,
+    "longitude": -117.5,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "utah_tech_trailblazers": {
+    "iata": "CDC",
+    "latitude": 37.70097,
+    "longitude": -113.09885,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "park_university_gilbert_buccaneers": {
+    "iata": "PHX",
+    "latitude": 33.43551,
+    "longitude": -111.99807,
+    "timezone": "America/Phoenix",
+    "gmt_offset": -7.0
+  },
+  "sonoma_st_cossacks": {
+    "iata": "STS",
+    "latitude": 38.5088,
+    "longitude": -122.81388,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "utep_miners": {
+    "iata": "ELP",
+    "latitude": 31.80725,
+    "longitude": -106.37758,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "omaha_mavericks": {
+    "iata": "OMA",
+    "latitude": 41.3011,
+    "longitude": -95.89848,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "evergreen_state_geoducks": {
+    "iata": "OLM",
+    "latitude": 46.96941,
+    "longitude": -122.90254,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "samford_bulldogs": {
+    "iata": "BHM",
+    "latitude": 33.56166,
+    "longitude": -86.75254,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "multnomah_university_multnomah": {
+    "iata": "PDX",
+    "latitude": 45.58919,
+    "longitude": -122.59353,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "idaho_vandals": {
+    "iata": "LWS",
+    "latitude": 46.37433,
+    "longitude": -117.01516,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "cal_state_bakersfield_roadrunners": {
+    "iata": "BFL",
+    "latitude": 35.4336,
+    "longitude": -119.05677,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "montana_state_billings_yellowjackets": {
+    "iata": "BIL",
+    "latitude": 45.80767,
+    "longitude": -108.54289,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "st_thomas_minnesota_tommies": {
+    "iata": "MSP",
+    "latitude": 44.88217,
+    "longitude": -93.20835,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "new_mexico_state_aggies": {
+    "iata": "LRU",
+    "latitude": 32.28942,
+    "longitude": -106.92197,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "seattle_u_redhawks": {
+    "iata": "SEA",
+    "latitude": 47.449,
+    "longitude": -122.30931,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "simpson_university_ca_red_hawks": {
+    "iata": "RDD",
+    "latitude": 40.50876,
+    "longitude": -122.29445,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "kansas_wesleyan_coyotes": {
+    "iata": "SLN",
+    "latitude": 38.79097,
+    "longitude": -97.65217,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "hampton_lady_pirates": {
+    "iata": "PHF",
+    "latitude": 37.13181,
+    "longitude": -76.49273,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "westcliff_warriors": {
+    "iata": "SNA",
+    "latitude": 33.67567,
+    "longitude": -117.86822,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "biola_eagles": {
+    "iata": "LGB",
+    "latitude": 33.81752,
+    "longitude": -118.15229,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "uc_san_diego_tritons": {
+    "iata": "SAN",
+    "latitude": 32.73235,
+    "longitude": -117.19744,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "cs_dominguez_hills_toros": {
+    "iata": "LAX",
+    "latitude": 33.94254,
+    "longitude": -118.40807,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "cal_state_northridge_matadors": {
+    "iata": "BUR",
+    "latitude": 34.20056,
+    "longitude": -118.35925,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "denver_pioneers": {
+    "iata": "DEN",
+    "latitude": 39.86166,
+    "longitude": -104.67318,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "stanislaus_state_warriors": {
+    "iata": "MOD",
+    "latitude": 37.62582,
+    "longitude": -120.95442,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "manhattan_jaspers": {
+    "iata": "NYC",
+    "latitude": 40.71427,
+    "longitude": -74.00597,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "quinnipiac_bobcats": {
+    "iata": "BDR",
+    "latitude": 41.16347,
+    "longitude": -73.12617,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "oakland_golden_grizzlies": {
+    "iata": "PTK",
+    "latitude": 42.6655,
+    "longitude": -83.42008,
+    "timezone": "America/Detroit",
+    "gmt_offset": -5.0
+  },
+  "niagara_purple_eagles": {
+    "iata": "BUF",
+    "latitude": 42.94034,
+    "longitude": -78.7317,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "detroit_mercy_titans": {
+    "iata": "DTW",
+    "latitude": 42.21244,
+    "longitude": -83.35339,
+    "timezone": "America/Detroit",
+    "gmt_offset": -5.0
+  },
+  "xavier_musketeers": {
+    "iata": "CVG",
+    "latitude": 39.04884,
+    "longitude": -84.66782,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "emory_henry_wasps": {
+    "iata": "ROA",
+    "latitude": 37.32547,
+    "longitude": -79.97542,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "western_carolina_catamounts": {
+    "iata": "AVL",
+    "latitude": 35.43619,
+    "longitude": -82.54181,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "montevallo_falcons": {
+    "iata": "BHM",
+    "latitude": 33.56166,
+    "longitude": -86.75254,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "converse": {
+    "iata": "GSP",
+    "latitude": 34.89567,
+    "longitude": -82.21886,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "southern_wesleyan_warriors": {
+    "iata": "GSP",
+    "latitude": 34.89567,
+    "longitude": -82.21886,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "lenoir_rhyne_bears": {
+    "iata": "AVL",
+    "latitude": 35.43619,
+    "longitude": -82.54181,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "erskine_flying_fleet": {
+    "iata": "GSP",
+    "latitude": 34.89567,
+    "longitude": -82.21886,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "mars_hill_mountain_lions": {
+    "iata": "AVL",
+    "latitude": 35.43619,
+    "longitude": -82.54181,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "uab_blazers": {
+    "iata": "BHM",
+    "latitude": 33.56166,
+    "longitude": -86.75254,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "talladega_tornadoes": {
+    "iata": "BHM",
+    "latitude": 33.56166,
+    "longitude": -86.75254,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "brevard_tornados": {
+    "iata": "AVL",
+    "latitude": 35.43619,
+    "longitude": -82.54181,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "alabama_am_bulldogs": {
+    "iata": "HSV",
+    "latitude": 34.63719,
+    "longitude": -86.77506,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "maryland_eastern_shore_hawks": {
+    "iata": "SBY",
+    "latitude": 38.3404,
+    "longitude": -75.5102,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "montreat_cavaliers": {
+    "iata": "AVL",
+    "latitude": 35.43619,
+    "longitude": -82.54181,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "arkansas_pine_bluff_golden_lions": {
+    "iata": "PBF",
+    "latitude": 34.18,
+    "longitude": -91.93,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "mcneese_cowgirls": {
+    "iata": "LCH",
+    "latitude": 30.12611,
+    "longitude": -93.22334,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "new_orleans_privateers": {
+    "iata": "MSY",
+    "latitude": 29.99339,
+    "longitude": -90.25803,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "southwestern_assemblies_of_god_lions": {
+    "iata": "DFW",
+    "latitude": 32.89683,
+    "longitude": -97.038,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "texas_am_texarkana_eagles": {
+    "iata": "TXK",
+    "latitude": 33.45372,
+    "longitude": -93.99103,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "northwestern_state_lady_demons": {
+    "iata": "ESF",
+    "latitude": 31.3949,
+    "longitude": -92.29577,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "lsu_shreveport_pilots": {
+    "iata": "SHV",
+    "latitude": 32.44663,
+    "longitude": -93.8256,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "texas_wesleyan_rams": {
+    "iata": "DFW",
+    "latitude": 32.89683,
+    "longitude": -97.038,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "st_thomas_tx_celts": {
+    "iata": "HOU",
+    "latitude": 29.64542,
+    "longitude": -95.27889,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "xavier_la_gold_rush": {
+    "iata": "MSY",
+    "latitude": 29.99339,
+    "longitude": -90.25803,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "louisiana_christian_university_wildcats": {
+    "iata": "AEX",
+    "latitude": 31.32593,
+    "longitude": -92.54591,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "wichita_state_shockers": {
+    "iata": "ICT",
+    "latitude": 37.64994,
+    "longitude": -97.43306,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "st_edwards_hilltoppers": {
+    "iata": "AUS",
+    "latitude": 30.19453,
+    "longitude": -97.66987,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "lamar_cardinals": {
+    "iata": "BPT",
+    "latitude": 29.95077,
+    "longitude": -94.02073,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "mississippi_valley_state_devilettes": {
+    "iata": "GLH",
+    "latitude": 33.47,
+    "longitude": -90.98,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "william_carey_crusaders": {
+    "iata": "PIB",
+    "latitude": 31.46714,
+    "longitude": -89.33706,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "schreiner_mountaineers": {
+    "iata": "SAT",
+    "latitude": 29.53384,
+    "longitude": -98.47002,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "incarnate_word_cardinals": {
+    "iata": "SAT",
+    "latitude": 29.53384,
+    "longitude": -98.47002,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "nicholls_colonels": {
+    "iata": "LCH",
+    "latitude": 30.12611,
+    "longitude": -93.22334,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "north_dakota_state_bison": {
+    "iata": "FAR",
+    "latitude": 46.92065,
+    "longitude": -96.81576,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "missouri_science_technology_miners": {
+    "iata": "RST",
+    "latitude": 43.90995,
+    "longitude": -92.4963,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "butler_bulldogs": {
+    "iata": "IND",
+    "latitude": 39.71733,
+    "longitude": -86.29438,
+    "timezone": "America/Indiana/Indianapolis",
+    "gmt_offset": -5.0
+  },
+  "chicago_state_cougars": {
+    "iata": "MDW",
+    "latitude": 41.78597,
+    "longitude": -87.75242,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "smu_mustangs": {
+    "iata": "DFW",
+    "latitude": 32.89683,
+    "longitude": -97.038,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "briar_cliff_chargers": {
+    "iata": "SUX",
+    "latitude": 42.4026,
+    "longitude": -96.38437,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "missouri_baptist_spartans": {
+    "iata": "STL",
+    "latitude": 38.74337,
+    "longitude": -90.36564,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "dickinson_state_nd_blue_hawks": {
+    "iata": "DIK",
+    "latitude": 46.8,
+    "longitude": -102.8,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "uic_flames": {
+    "iata": "ORD",
+    "latitude": 41.9786,
+    "longitude": -87.90484,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "college_of_st_mary_flames": {
+    "iata": "OMA",
+    "latitude": 41.3011,
+    "longitude": -95.89848,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "university_of_science_and_arts_drovers": {
+    "iata": "OKC",
+    "latitude": 35.39309,
+    "longitude": -97.60073,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "siu_edwardsville_cougars": {
+    "iata": "BLV",
+    "latitude": 38.54502,
+    "longitude": -89.84693,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "colorado_christian_cougars": {
+    "iata": "DEN",
+    "latitude": 39.86166,
+    "longitude": -104.67318,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "jamestown_jimmies": {
+    "iata": "JMS",
+    "latitude": 46.92971,
+    "longitude": -98.67816,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "central_christian_college_central_christian_college": {
+    "iata": "MHH",
+    "latitude": 26.51139,
+    "longitude": -77.08361,
+    "timezone": "America/Nassau",
+    "gmt_offset": -5.0
+  },
+  "greenville_panthers": {
+    "iata": "GRE",
+    "latitude": 38.83454,
+    "longitude": -89.37396,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "northland_lumberjacks": {
+    "iata": "HIB",
+    "latitude": 47.3866,
+    "longitude": -92.83899,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "dakota_wesleyan_tigers": {
+    "iata": "MHE",
+    "latitude": 43.77,
+    "longitude": -98.03,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "life_pacific": {
+    "iata": "LAX",
+    "latitude": 33.94254,
+    "longitude": -118.40807,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "western_new_mexico_mustangs": {
+    "iata": "SVC",
+    "latitude": 32.63,
+    "longitude": -108.2,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "university_of_the_southwest_mustangs": {
+    "iata": "HOB",
+    "latitude": 32.68,
+    "longitude": -103.2,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "arizona_christian_firestorm": {
+    "iata": "PHX",
+    "latitude": 33.43551,
+    "longitude": -111.99807,
+    "timezone": "America/Phoenix",
+    "gmt_offset": -7.0
+  },
+  "sam_houston_bearkats": {
+    "iata": "IAH",
+    "latitude": 29.98687,
+    "longitude": -95.34212,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "wiley_wildcats": {
+    "iata": "TYR",
+    "latitude": 32.35414,
+    "longitude": -95.40239,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "howard_payne_yellow_jackets": {
+    "iata": "BWD",
+    "latitude": 31.79376,
+    "longitude": -98.95672,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "angelo_state_rams": {
+    "iata": "SJT",
+    "latitude": 31.3585,
+    "longitude": -100.50287,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "antelope_valley": {
+    "iata": "WJF",
+    "latitude": 34.73305,
+    "longitude": -118.21987,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "loyola_new_orleans_wolfpack": {
+    "iata": "MSY",
+    "latitude": 29.99339,
+    "longitude": -90.25803,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "unt_dallas_trailblazers": {
+    "iata": "DFW",
+    "latitude": 32.89683,
+    "longitude": -97.038,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "prairie_view_am_lady_panthers": {
+    "iata": "PVW",
+    "latitude": 34.17,
+    "longitude": -101.7,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "arlington_baptist_patriots": {
+    "iata": "DFW",
+    "latitude": 32.89683,
+    "longitude": -97.038,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "mcmurry_war_hawks": {
+    "iata": "ABI",
+    "latitude": 32.41124,
+    "longitude": -99.68203,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "nelson_lions": {
+    "iata": "LYH",
+    "latitude": 37.32606,
+    "longitude": -79.2045,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "old_dominion_monarchs": {
+    "iata": "ORF",
+    "latitude": 36.89461,
+    "longitude": -76.20122,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "st_francis_pa_red_flash": {
+    "iata": "LBE",
+    "latitude": 40.27594,
+    "longitude": -79.4048,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "manchester_spartans": {
+    "iata": "FWA",
+    "latitude": 40.97847,
+    "longitude": -85.19514,
+    "timezone": "America/Indiana/Indianapolis",
+    "gmt_offset": -5.0
+  },
+  "wright_state_raiders": {
+    "iata": "DAY",
+    "latitude": 39.90237,
+    "longitude": -84.21937,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "quincy_hawks": {
+    "iata": "UIN",
+    "latitude": 39.93771,
+    "longitude": -91.19399,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "southeast_missouri_state_redhawks": {
+    "iata": "CGI",
+    "latitude": 37.22532,
+    "longitude": -89.57075,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "lake_erie_storm": {
+    "iata": "CLE",
+    "latitude": 41.41169,
+    "longitude": -81.84979,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "davis_elkins_senators": {
+    "iata": "EKN",
+    "latitude": 38.88944,
+    "longitude": -79.85714,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "point_park_pioneers": {
+    "iata": "PIT",
+    "latitude": 40.49147,
+    "longitude": -80.23287,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "north_carolina_central_eagles": {
+    "iata": "RDU",
+    "latitude": 35.87946,
+    "longitude": -78.7871,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "georgetown_hoyas": {
+    "iata": "DCA",
+    "latitude": 38.85208,
+    "longitude": -77.03772,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "temple_owls": {
+    "iata": "PHL",
+    "latitude": 39.87835,
+    "longitude": -75.24018,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "seton_hall_pirates": {
+    "iata": "EWR",
+    "latitude": 40.69125,
+    "longitude": -74.17883,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "haskell_jayhawks": {
+    "iata": "LWC",
+    "latitude": 38.95,
+    "longitude": -95.28,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "baker_university_baker": {
+    "iata": "MCI",
+    "latitude": 39.29761,
+    "longitude": -94.7139,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "belmont_abbey_crusaders": {
+    "iata": "CLT",
+    "latitude": 35.2207,
+    "longitude": -80.94413,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "lee_flames": {
+    "iata": "CHA",
+    "latitude": 35.03528,
+    "longitude": -85.20381,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "villanova_wildcats": {
+    "iata": "PHL",
+    "latitude": 39.87835,
+    "longitude": -75.24018,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "florida_memorial_lions": {
+    "iata": "MIA",
+    "latitude": 25.79343,
+    "longitude": -80.29005,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "ave_maria_gyrenes": {
+    "iata": "APF",
+    "latitude": 26.15,
+    "longitude": -81.77,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "jessup_university_warriors": {
+    "iata": "SMF",
+    "latitude": 38.69542,
+    "longitude": -121.59078,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "lees_mcrae_bobcats": {
+    "iata": "TNB",
+    "latitude": -1.917,
+    "longitude": 116.2,
+    "timezone": "Asia/Makassar",
+    "gmt_offset": 8.0
+  },
+  "winston_salem_rams": {
+    "iata": "INT",
+    "latitude": 36.13635,
+    "longitude": -80.22817,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "central_baptist_college_mustangs": {
+    "iata": "LIT",
+    "latitude": 34.72944,
+    "longitude": -92.22431,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "university_of_the_ozarks_eagles": {
+    "iata": "FSM",
+    "latitude": 35.33648,
+    "longitude": -94.36744,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "agnes_scott_college_scotties": {
+    "iata": "ATL",
+    "latitude": 33.64099,
+    "longitude": -84.42265,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "wesleyan_college_ga_wolves": {
+    "iata": "MCN",
+    "latitude": 32.69625,
+    "longitude": -83.64199,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "fort_valley_state_wildcats": {
+    "iata": "MCN",
+    "latitude": 32.69625,
+    "longitude": -83.64199,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "carver_college_cougars": {
+    "iata": "ATL",
+    "latitude": 33.64099,
+    "longitude": -84.42265,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "texas_am_kingsville_javelinas": {
+    "iata": "KIL",
+    "latitude": -9.29078,
+    "longitude": 28.32696,
+    "timezone": "Africa/Lubumbashi",
+    "gmt_offset": 2.0
+  },
+  "alabama_huntsville_chargers": {
+    "iata": "HSV",
+    "latitude": 34.63719,
+    "longitude": -86.77506,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "chestnut_hill_college_griffins": {
+    "iata": "PHL",
+    "latitude": 39.87835,
+    "longitude": -75.24018,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "minnesota_morris_cougars": {
+    "iata": "MSP",
+    "latitude": 44.88217,
+    "longitude": -93.20835,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "mayville_st_comets": {
+    "iata": "FAR",
+    "latitude": 46.92065,
+    "longitude": -96.81576,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "frostburg_state_bobcats": {
+    "iata": "CBE",
+    "latitude": 39.61509,
+    "longitude": -78.76168,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "millersville_marauders": {
+    "iata": "MDT",
+    "latitude": 40.19342,
+    "longitude": -76.7633,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "mount_olive_trojans": {
+    "iata": "RDU",
+    "latitude": 35.87946,
+    "longitude": -78.7871,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "uc_merced_bobcats": {
+    "iata": "MCC",
+    "latitude": 38.66764,
+    "longitude": -121.40061,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "holy_names_university_hawks": {
+    "iata": "OAK",
+    "latitude": 37.73071,
+    "longitude": -122.21955,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "west_chester_golden_rams": {
+    "iata": "PHL",
+    "latitude": 39.87835,
+    "longitude": -75.24018,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "clarion_golden_eagles": {
+    "iata": "DUJ",
+    "latitude": 41.17812,
+    "longitude": -78.89864,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "palm_beach_atlantic_sailfish": {
+    "iata": "PBI",
+    "latitude": 26.68316,
+    "longitude": -80.09559,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "bluefield_state_big_blues": {
+    "iata": "BLF",
+    "latitude": 37.29567,
+    "longitude": -81.2076,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "alderson_broaddus_battlers": {
+    "iata": "CKB",
+    "latitude": 39.29664,
+    "longitude": -80.22808,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "pfeiffer_falcons": {
+    "iata": "INT",
+    "latitude": 36.13635,
+    "longitude": -80.22817,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "bowie_state_bulldogs": {
+    "iata": "BWI",
+    "latitude": 39.17539,
+    "longitude": -76.66802,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "blue_mountain_college_toppers": {
+    "iata": "TUP",
+    "latitude": 34.26811,
+    "longitude": -88.76989,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "kentucky_state_thorobreds": {
+    "iata": "LEX",
+    "latitude": 38.03702,
+    "longitude": -84.60522,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "claflin_panthers": {
+    "iata": "CAE",
+    "latitude": 33.93883,
+    "longitude": -81.11953,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "johnson_wales_nc_wildcats": {
+    "iata": "CLT",
+    "latitude": 35.2207,
+    "longitude": -80.94413,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "pikeville_bears": {
+    "iata": "PBX",
+    "latitude": -10.86,
+    "longitude": -51.68,
+    "timezone": "America/Cuiaba",
+    "gmt_offset": -4.0
+  },
+  "lindenwood_lions": {
+    "iata": "STL",
+    "latitude": 38.74337,
+    "longitude": -90.36564,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "oakland_city_mighty_oaks": {
+    "iata": "EVV",
+    "latitude": 38.037,
+    "longitude": -87.53236,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "midway_university_midway": {
+    "iata": "LEX",
+    "latitude": 38.03702,
+    "longitude": -84.60522,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "asbury_eagles": {
+    "iata": "LEX",
+    "latitude": 38.03702,
+    "longitude": -84.60522,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "cumberland_ky_indians": {
+    "iata": "LOZ",
+    "latitude": 37.08855,
+    "longitude": -84.07511,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "harris_stowe_state_hornets": {
+    "iata": "STL",
+    "latitude": 38.74337,
+    "longitude": -90.36564,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "arkansas_baptist_buffaloes": {
+    "iata": "LIT",
+    "latitude": 34.72944,
+    "longitude": -92.22431,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "east_stroudsburg_university_warriors": {
+    "iata": "ABE",
+    "latitude": 40.65253,
+    "longitude": -75.43554,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "paul_quinn_tigers": {
+    "iata": "DFW",
+    "latitude": 32.89683,
+    "longitude": -97.038,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "huston_tillotson_rams": {
+    "iata": "AUS",
+    "latitude": 30.19453,
+    "longitude": -97.66987,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "salem_university": {
+    "iata": "LWB",
+    "latitude": 37.85818,
+    "longitude": -80.39924,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "louisiana_christian_wildcats": {
+    "iata": "AEX",
+    "latitude": 31.32593,
+    "longitude": -92.54591,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "centenary_la_gentlemen": {
+    "iata": "SHV",
+    "latitude": 32.44663,
+    "longitude": -93.8256,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "champion_christian_tigers": {
+    "iata": "TXK",
+    "latitude": 33.45372,
+    "longitude": -93.99103,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "kings_pa_monarchs": {
+    "iata": "MDT",
+    "latitude": 40.19342,
+    "longitude": -76.7633,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "bethel_tn_wildcats": {
+    "iata": "BNA",
+    "latitude": 36.1195,
+    "longitude": -86.68416,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "texas_college_steers": {
+    "iata": "TYR",
+    "latitude": 32.35414,
+    "longitude": -95.40239,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "edward_waters_tigers": {
+    "iata": "JAX",
+    "latitude": 30.49187,
+    "longitude": -81.68569,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "st_andrews_knights": {
+    "iata": "LBT",
+    "latitude": 34.6,
+    "longitude": -79.07,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "william_peace": {
+    "iata": "RDU",
+    "latitude": 35.87946,
+    "longitude": -78.7871,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "mid_atlantic_christian_mustangs": {
+    "iata": "ETC",
+    "latitude": 35.9372,
+    "longitude": -77.5461,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "king_tn_tornado": {
+    "iata": "TRI",
+    "latitude": 36.47522,
+    "longitude": -82.40742,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "columbia_international_columbia_intl": {
+    "iata": "CAE",
+    "latitude": 33.93883,
+    "longitude": -81.11953,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "warren_wilson_owls": {
+    "iata": "AVL",
+    "latitude": 35.43619,
+    "longitude": -82.54181,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "slippery_rock_the_rock": {
+    "iata": "PIT",
+    "latitude": 40.49147,
+    "longitude": -80.23287,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "notre_dame_college_oh_blue_falcons": {
+    "iata": "CLE",
+    "latitude": 41.41169,
+    "longitude": -81.84979,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "john_carroll_blue_streaks": {
+    "iata": "CLE",
+    "latitude": 41.41169,
+    "longitude": -81.84979,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "csu_pueblo_thunderwolves": {
+    "iata": "PUB",
+    "latitude": 38.28909,
+    "longitude": -104.49657,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "chadron_state_eagles": {
+    "iata": "CDR",
+    "latitude": 42.83,
+    "longitude": -103.1,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "mercyhurst_lakers": {
+    "iata": "ERI",
+    "latitude": 42.08202,
+    "longitude": -80.17622,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "olivet_comets": {
+    "iata": "BTL",
+    "latitude": 42.30728,
+    "longitude": -85.25148,
+    "timezone": "America/Detroit",
+    "gmt_offset": -5.0
+  },
+  "westminster_ut_griffins": {
+    "iata": "SLC",
+    "latitude": 40.78839,
+    "longitude": -111.97777,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "upper_iowa_peacocks": {
+    "iata": "FOD",
+    "latitude": 42.5512,
+    "longitude": -94.19184,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "simpson_college_ia_storm": {
+    "iata": "DSM",
+    "latitude": 41.53397,
+    "longitude": -93.66308,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "william_jewell_cardinals": {
+    "iata": "MCI",
+    "latitude": 39.29761,
+    "longitude": -94.7139,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "graceland_university_graceland": {
+    "iata": "OTM",
+    "latitude": 41.1066,
+    "longitude": -92.44794,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "academy_of_art_urban_knights": {
+    "iata": "SFO",
+    "latitude": 37.61897,
+    "longitude": -122.37489,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "cal_state_la_golden_eagles": {
+    "iata": "LAX",
+    "latitude": 33.94254,
+    "longitude": -118.40807,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "regis_co_rangers": {
+    "iata": "DEN",
+    "latitude": 39.86166,
+    "longitude": -104.67318,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "colorado_colorado_springs_mountain_lions": {
+    "iata": "COS",
+    "latitude": 38.8058,
+    "longitude": -104.70078,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "oregon_tech_hustlin_owls": {
+    "iata": "LMT",
+    "latitude": 42.15614,
+    "longitude": -121.73321,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "connecticut_college_camels": {
+    "iata": "GON",
+    "latitude": 41.3301,
+    "longitude": -72.04452,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "johnson_university_fl_suns": {
+    "iata": "TPA",
+    "latitude": 27.97547,
+    "longitude": -82.53325,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "florida_national_conquistadors": {
+    "iata": "MIA",
+    "latitude": 25.79343,
+    "longitude": -80.29005,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "auburn_montgomery_senators": {
+    "iata": "MGM",
+    "latitude": 32.30064,
+    "longitude": -86.39397,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "young_harris_college_mountain_lions": {
+    "iata": "TMA",
+    "latitude": 31.43,
+    "longitude": -83.48,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "thomas_ga_night_hawks": {
+    "iata": "VLD",
+    "latitude": 30.7825,
+    "longitude": -83.27672,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "molloy_lions": {
+    "iata": "NYC",
+    "latitude": 40.71427,
+    "longitude": -74.00597,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "transylvania_pioneers": {
+    "iata": "LEX",
+    "latitude": 38.03702,
+    "longitude": -84.60522,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "mobile_rams": {
+    "iata": "BFM",
+    "latitude": 30.62678,
+    "longitude": -88.06809,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "notre_dame_of_maryland_university_gators": {
+    "iata": "BWI",
+    "latitude": 39.17539,
+    "longitude": -76.66802,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "washington_adventist_shock": {
+    "iata": "DCA",
+    "latitude": 38.85208,
+    "longitude": -77.03772,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "faulkner_eagles": {
+    "iata": "MGM",
+    "latitude": 32.30064,
+    "longitude": -86.39397,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "piedmont_lions": {
+    "iata": "ATL",
+    "latitude": 33.64099,
+    "longitude": -84.42265,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "bob_jones": {
+    "iata": "GSP",
+    "latitude": 34.89567,
+    "longitude": -82.21886,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "grace_christian_university_tigers": {
+    "iata": "GRR",
+    "latitude": 42.88083,
+    "longitude": -85.52281,
+    "timezone": "America/Detroit",
+    "gmt_offset": -5.0
+  },
+  "bryn_athyn_lions": {
+    "iata": "PHL",
+    "latitude": 39.87835,
+    "longitude": -75.24018,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "chowan_hawks": {
+    "iata": "ETC",
+    "latitude": 35.9372,
+    "longitude": -77.5461,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "bushnell_beacons": {
+    "iata": "EUG",
+    "latitude": 44.12458,
+    "longitude": -123.21197,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "valley_forge_patriots": {
+    "iata": "PHL",
+    "latitude": 39.87835,
+    "longitude": -75.24018,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "caldwell_cougars": {
+    "iata": "EWR",
+    "latitude": 40.69125,
+    "longitude": -74.17883,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "university_of_health_sciences_pharmacy_eutectics": {
+    "iata": "STL",
+    "latitude": 38.74337,
+    "longitude": -90.36564,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "brewton_parker_wildcats": {
+    "iata": "VLD",
+    "latitude": 30.7825,
+    "longitude": -83.27672,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "stephens": {
+    "iata": "COU",
+    "latitude": 38.81809,
+    "longitude": -92.21963,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "northwest_nazarene_nighthawks": {
+    "iata": "BOI",
+    "latitude": 43.56683,
+    "longitude": -116.22321,
+    "timezone": "America/Boise",
+    "gmt_offset": -7.0
+  },
+  "bethesda_university_lion_angels": {
+    "iata": "SNA",
+    "latitude": 33.67567,
+    "longitude": -117.86822,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "colorado_mesa_mavericks": {
+    "iata": "GJT",
+    "latitude": 39.1222,
+    "longitude": -108.52911,
+    "timezone": "America/Denver",
+    "gmt_offset": -7.0
+  },
+  "lewis_clark_st_warriors": {
+    "iata": "PSC",
+    "latitude": 46.27,
+    "longitude": -119.1,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "st_francis_il_fighting_saints": {
+    "iata": "VYS",
+    "latitude": 41.35249,
+    "longitude": -89.15041,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "union_ky_bulldogs": {
+    "iata": "CVG",
+    "latitude": 39.04884,
+    "longitude": -84.66782,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "lagrange_panthers": {
+    "iata": "CSG",
+    "latitude": 32.51625,
+    "longitude": -84.93882,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "cal_lutheran_kingsmen": {
+    "iata": "BUR",
+    "latitude": 34.20056,
+    "longitude": -118.35925,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "texas_lutheran_bulldogs": {
+    "iata": "SAT",
+    "latitude": 29.53384,
+    "longitude": -98.47002,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "northwest_university_eagles": {
+    "iata": "SEA",
+    "latitude": 47.449,
+    "longitude": -122.30931,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "western_oregon_wolves": {
+    "iata": "EUG",
+    "latitude": 44.12458,
+    "longitude": -123.21197,
+    "timezone": "America/Los_Angeles",
+    "gmt_offset": -8.0
+  },
+  "tougaloo_bulldogs": {
+    "iata": "JAN",
+    "latitude": 32.31117,
+    "longitude": -90.07589,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "lsu_alexandria_generals": {
+    "iata": "AEX",
+    "latitude": 31.32593,
+    "longitude": -92.54591,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "randolph_college_wildcats": {
+    "iata": "LYH",
+    "latitude": 37.32606,
+    "longitude": -79.2045,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "spring_hill_badgers": {
+    "iata": "MOB",
+    "latitude": 30.69123,
+    "longitude": -88.24281,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "ohio_christian_trailblazers": {
+    "iata": "CMH",
+    "latitude": 39.99795,
+    "longitude": -82.88352,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "union_ny_garnet_chargers": {
+    "iata": "ALB",
+    "latitude": 42.74827,
+    "longitude": -73.80169,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "lock_haven_university_bald_eagles": {
+    "iata": "UNV",
+    "latitude": 40.8492,
+    "longitude": -77.8487,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "ursinus_bears": {
+    "iata": "PHL",
+    "latitude": 39.87835,
+    "longitude": -75.24018,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "immaculata_mighty_macs": {
+    "iata": "PHL",
+    "latitude": 39.87835,
+    "longitude": -75.24018,
+    "timezone": "America/New_York",
+    "gmt_offset": -5.0
+  },
+  "ecclesia_royals": {
+    "iata": "XNA",
+    "latitude": 36.28194,
+    "longitude": -94.30694,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "philander_smith_panthers": {
+    "iata": "LIT",
+    "latitude": 34.72944,
+    "longitude": -92.22431,
+    "timezone": "America/Chicago",
+    "gmt_offset": -6.0
+  },
+  "taylor_trojans": {
+    "iata": "IND",
+    "latitude": 39.71733,
+    "longitude": -86.29438,
+    "timezone": "America/Indiana/Indianapolis",
+    "gmt_offset": -5.0
+  }
+}
